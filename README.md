@@ -1,2 +1,2 @@
 # simplemenu
-Simple menu
+view - https://ivaxnenko.github.io/simplemenu/
